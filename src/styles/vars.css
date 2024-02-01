@@ -1,0 +1,16 @@
+:root {
+  --font-dm-sans: "DM Sans", sans-serif;
+
+  --bg-dark-800: #121212;
+  --bg-dark-600: #242424;
+
+  --grey-300: #b3b3b3;
+  --grey-400: #878787;
+
+  --pink-500: #ae2896;
+
+  --blue-500: #509bf5;
+
+  --white: #fff;
+  --black: #000;
+}
