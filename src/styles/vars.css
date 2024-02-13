@@ -3,9 +3,12 @@
 
   --bg-dark-800: #121212;
   --bg-dark-600: #242424;
+  --bg-icon: #131313;
+  --bg-arrow-color: rgba(0, 0, 0, 7);
 
   --grey-300: #b3b3b3;
-  --grey-400: #878787;
+  --grey-400: #a7a7a7;
+  --grey-500: #878787;
 
   --pink-500: #ae2896;
 
@@ -13,4 +16,3 @@
 
   --white: #fff;
   --black: #000;
-}
